@@ -1,5 +1,9 @@
 # PocketDO: A React-Based Todo Application
 
+Application Walkthrough / Tour Video : <https://youtu.be/8rv2DX640lk>
+
+Application Hosted via GitHub Pages: <https://zacqueleong.github.io/pocketdo/>
+
 Overview:
 PocketDO is an application built entirely with React, offering a simple approach for managing todos efficiently.
 
